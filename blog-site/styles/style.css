@@ -29,7 +29,7 @@
   /* Header */
   .main-header {
     position: relative;
-    background-image: url('/blog-site/images/header\ photo.jpg');
+    background-image: url('./blog-site/images/header\ photo.jpg');
     background-size: cover;
     background-position: center;
     color: white;
